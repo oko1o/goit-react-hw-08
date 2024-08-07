@@ -1,0 +1,12 @@
+.appBar {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #000;
+  margin-bottom: 20px;
+}
+
+a {
+  color: #000;
+}

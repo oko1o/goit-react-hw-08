@@ -1,0 +1,11 @@
+.person {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.personName,
+.personNumber {
+  display: flex;
+  gap: 5px;
+}
